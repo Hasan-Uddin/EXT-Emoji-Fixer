@@ -12,13 +12,13 @@
 	}],
 	 "Update":[
 	{
-	   "link": "1.1",
+	   "link": "http://fb.com",
 	   "error": "01"
 	}],
 
 	"Controle":[
 	{
-	        "version": "www.FB.com",
+	        "version": "1.0",
 		"error": "01"
 	}]
  }
